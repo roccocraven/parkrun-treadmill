@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/parkrun-treadmill/static/css/main.e6c13ad2.css",
-    "main.js": "/parkrun-treadmill/static/js/main.d9f46f91.js",
-    "static/js/453.e8c7d1f4.chunk.js": "/parkrun-treadmill/static/js/453.e8c7d1f4.chunk.js",
+    "main.js": "/parkrun-treadmill/static/js/main.f8cd2b9a.js",
     "index.html": "/parkrun-treadmill/index.html",
     "main.e6c13ad2.css.map": "/parkrun-treadmill/static/css/main.e6c13ad2.css.map",
-    "main.d9f46f91.js.map": "/parkrun-treadmill/static/js/main.d9f46f91.js.map",
-    "453.e8c7d1f4.chunk.js.map": "/parkrun-treadmill/static/js/453.e8c7d1f4.chunk.js.map"
+    "main.f8cd2b9a.js.map": "/parkrun-treadmill/static/js/main.f8cd2b9a.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.d9f46f91.js"
+    "static/js/main.f8cd2b9a.js"
   ]
 }
